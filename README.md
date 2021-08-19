@@ -65,7 +65,7 @@ As a user, I should be able to:
 - Release a bot from my army by clicking on it. The bot disappears from the
   `YourBotArmy` component.
 - Discharge a bot from their service by clicking the red button marked "x",
-  which would remove the bot from the `YourBotArmy` component on the frontend.
+  which would remove the bot from both the `YourBotArmy` component and the `BotCollection` on the frontend.
 
 ### Endpoints for Core Deliverables
 
